@@ -1,0 +1,6 @@
+{
+  "name": "91rent a car",
+  "description": "Car rental agency located in Johar Town, Lahore, Pakistan. Rated 5.0 on Google from 33 reviews. Vehicle rentals available with driver and self-drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
